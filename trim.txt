@@ -1,0 +1,16 @@
+TRIM Function
+The TRIM function removes leading and trailing characters from a character string.
+trim-type
+specifies whether characters are to be trimmed from the leading end (LEADING),
+trailing end (TRAILING), or both ends (BOTH) of trim-source. If you omit trimtype,
+the default is BOTH.
+trim_char
+is an SQL character value expression and specifies the character to be trimmed
+from trim-source. trim_char has a maximum length of 1. If you omit
+trim_char, SQL trims blanks (' ') from trim-source.
+trim-source
+is an SQL character value expression and specifies the string from which to trim
+characters. See Character Value Expressions on page 6-39.
+Considerations for TRIM
+Result of TRIM
+The result
