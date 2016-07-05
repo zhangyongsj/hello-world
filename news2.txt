@@ -19,6 +19,3 @@ short
 
     Show the branch and tracking info even in short-format.
 --porcelain
-
-    When doing a dry-run, give the output in a porcelain-ready format. See git-status(1) for details. Implies --dry-run.
---lo
