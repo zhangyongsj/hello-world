@@ -1,4 +1,4 @@
-霍建华要和林心如结婚啦，7月31日巴厘岛办婚礼！
+﻿霍建华要和林心如结婚啦，7月31日巴厘岛办婚礼！
 [婚礼细节]宾客只邀家长与少数亲友 | 女方疑已怀孕 | 林心如为霍建华弃当不婚族：真心能融化坚冰
 [恋爱轨迹]5.20公开恋情，霍建华靠酒后告白赢得女神心 → 6.18认爱后首度合体 → 7.5宣布婚讯
 三喜临门！陈晓生日当天与陈妍希领证 女方宣布怀孕(图)
@@ -21,12 +21,4 @@ short
 --porcelain
 
     When doing a dry-run, give the output in a porcelain-ready format. See git-status(1) for details. Implies --dry-run.
---long
-
-    When doing a dry-run, give the output in a the long-format. Implies --dry-run.
--z
---null
-
-    When showing short or porcelain status output, terminate entries in the status output with NUL, instead of LF. If no format is given, implies the --porcelain output format.
--F <file>
---file=<file>
+--lo
