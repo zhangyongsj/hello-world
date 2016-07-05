@@ -10,3 +10,23 @@
 穿着睡裙就来了，范冰冰李晨逛街竟是这画风
 穿着睡裙就来了，范冰冰李晨逛街竟是这画风”
 范冰冰李晨近日外出逛街被拍，照片中，两人都是戴着口罩、墨镜和帽子，全副武装。不过范冰冰衣着宽松，被调侃是穿着睡衣就上街了。
+
+
+short
+
+    When doing a dry-run, give the output in the short-format. See git-status(1) for details. Implies --dry-run.
+--branch
+
+    Show the branch and tracking info even in short-format.
+--porcelain
+
+    When doing a dry-run, give the output in a porcelain-ready format. See git-status(1) for details. Implies --dry-run.
+--long
+
+    When doing a dry-run, give the output in a the long-format. Implies --dry-run.
+-z
+--null
+
+    When showing short or porcelain status output, terminate entries in the status output with NUL, instead of LF. If no format is given, implies the --porcelain output format.
+-F <file>
+--file=<file>
