@@ -32,3 +32,5 @@ shortshort
     Show the branch and tracking info even in short-format.
 	new line Show the branch and tracking info even in short-format.
 --porcelain
+
+  for unstaged contents test
