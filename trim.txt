@@ -1,4 +1,7 @@
 TRIM Function
+
+I add a new line heere
+
 The TRIM function removes leading and trailing characters from a character string.
 trim-type
 specifies whether characters are to be trimmed from the leading end (LEADING),
