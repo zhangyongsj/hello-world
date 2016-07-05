@@ -12,8 +12,8 @@
 范冰冰李晨近日外出逛街被拍，照片中，两人都是戴着口罩、墨镜和帽子，全副武装。不过范冰冰衣着宽松，被调侃是穿着睡衣就上街了。
 
 
-short
-
+shortshort
+   
     When doing a dry-run, give the output in the short-format. See git-status(1) for details. Implies --dry-run.
 --branch
 
