@@ -19,3 +19,15 @@ short
 
     Show the branch and tracking info even in short-format.
 --porcelain
+
+    When doing a dry-run, give the output in the short-format. See git-status(1) for details. Implies --dry-run.
+--branch
+
+    Show the branch and tracking info even in short-format.
+--porcelain
+
+    When doing a dry-run, give the output in the short-format. See git-status(1) for details. Implies --dry-run.
+--branch
+
+    Show the branch and tracking info even in short-format.
+--porcelain
